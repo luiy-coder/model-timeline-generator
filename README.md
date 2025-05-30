@@ -16,7 +16,7 @@ An interactive Streamlit app that helps you estimate the realistic time needed t
 
 ## 📸 Demo
 
-![App Screenshot](app_screenshot.JPG)
+![App Screenshot](app_screenshot.jpg)
 
 ---
 
